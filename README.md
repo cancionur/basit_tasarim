@@ -4,4 +4,4 @@ Flutter'da tasarlanmış basit bir tasarım ekranı
 
 # Görsel
 
-![](pictures/tasarim_resmi.jpeg)
+<img src ="pictures/tasarim_resmi.jpeg" width="300"> 
